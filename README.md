@@ -1,5 +1,7 @@
 # Discord Themes
 
+Tweaked since imgur blocked the uk
+
 All the themes/mini-themes/tools 'Spectra' made for Discord.
 
 Help me to make my themes even better! Join the discord server!
